@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChattizPro</string>
+    <string name="start_login">Login</string>
+    <string name="start_signup">Create A New Account</string>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+    <string name="login_log">Login</string>
+    <string name="logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

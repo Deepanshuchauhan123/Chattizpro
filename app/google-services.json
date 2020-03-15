@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369742015594",
+    "firebase_url": "https://chattizpro.firebaseio.com",
+    "project_id": "chattizpro",
+    "storage_bucket": "chattizpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369742015594:android:9457a0d00968dfe8acee13",
+        "android_client_info": {
+          "package_name": "com.keshav.chattizpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369742015594-juldo33q0271j7fhnimo77jit5v88ns4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keshav.chattizpro",
+            "certificate_hash": "23e17f6aec2952b36f01be79387089b8005f9e11"
+          }
+        },
+        {
+          "client_id": "369742015594-h0b4gs51al398fv7k3etlq23ftd3m3k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFBGaIvNcvLJVU5OZNHtHNjjSU8NxhQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369742015594-h0b4gs51al398fv7k3etlq23ftd3m3k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
